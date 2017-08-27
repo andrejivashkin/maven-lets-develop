@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>lets.develop</groupId>
 	<artifactId>M_DependencyManagement</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<distributionManagement>
 		<repository>
 			<id>ssh-letsdeveloper-snapshots</id>
