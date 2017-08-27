@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>lets.develop</groupId>
 	<artifactId>M_DependencyManagement</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<distributionManagement>
 		<repository>
 			<id>ssh-letsdeveloper-snapshots</id>
@@ -15,7 +15,7 @@
 	</distributionManagement>
 	<scm>
 		<connection>scm:git:git@github.com:andrejivashkin/maven-lets-develop.git</connection>
-	  <tag>HEAD</tag>
+	  <tag>M_DependencyManagement-0.0.2</tag>
   </scm>
 	<dependencies>
 		<dependency>
